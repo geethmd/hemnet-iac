@@ -52,7 +52,7 @@ Below components are required to run the project locally,
 
 ### Install the web app components
 
-After completing the Terraform installation, add all the yaml files inside https://github.com/geethmd/fluxcd -> clusters -> my-cluster -> demo to the new GitHub repository created by Terraform.
+After completing the Terraform installation, add all the yaml files inside https://github.com/geethmd/fluxcd -> clusters -> my-cluster -> manifest to the new GitHub repository created by Terraform.
 
 Update ecrpolicy.yaml, ecrscan.yaml, imageupdateautomation.yaml and deployment.yaml files with your ECR url and docker tag pattern.
 
