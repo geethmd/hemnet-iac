@@ -17,7 +17,7 @@ To make sure the web app maintains high availability,
 
 - EKS cluster is setup across 2 AZs
 - EKS cluster is configured with an EKS-managed node group of min, max and desired node settings
-- web app is deployed in 2 pods across 2 nodes (initial version)
+- web app is deployed in 3 pods across 2 nodes (initial version)
 
 
 ## CICD
