@@ -59,4 +59,4 @@ Update ecrpolicy.yaml, ecrscan.yaml, imageupdateautomation.yaml and deployment.y
 
 ### Authors
 
-Geeth Madhusha
+Geeth Madhusha D
